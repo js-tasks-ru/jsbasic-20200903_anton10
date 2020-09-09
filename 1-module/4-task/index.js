@@ -13,4 +13,4 @@ function checkSpam(str) {
   }
 }
 
-checkSpam();
+
